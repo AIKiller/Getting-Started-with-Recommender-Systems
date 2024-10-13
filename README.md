@@ -200,5 +200,9 @@ CCF计算领域高质量科技期刊分级目录：https://www.ccf.org.cn/ccftjg
 
 #### [**News Rs**](https://github.com/AIKiller/Getting-Started-with-Recommender-Systems/blob/main/paper/News%20Rs.md)
 
+#### [**Review-based Rs**](https://github.com/AIKiller/Getting-Started-with-Recommender-Systems/blob/main/paper/Review-based%20RS.md)
+
+
+
 
 
