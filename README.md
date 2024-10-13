@@ -194,4 +194,4 @@ CCF计算领域高质量科技期刊分级目录：https://www.ccf.org.cn/ccftjg
 
 #### [**Cross-Domain Rec**](https://github.com/sdaiIIG/Getting-Started-with-Recommender-Systems/blob/main/paper/Cross-Domain%20Rec.md)
 
-#### [**Multi-Modality Rec**](https://github.com/sdaiIIG/Getting-Started-with-Recommender-Systems/blob/main/paper/Multi-Modality%20Rec.md)
+#### [**Multi-Modality Rec**](https://github.com/AIKiller/Getting-Started-with-Recommender-Systems/blob/main/paper/Multi-Modality%20Rec.md)
