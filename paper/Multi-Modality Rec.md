@@ -10,6 +10,6 @@ Multi-Modality Rec
 
 5. Zhou X, Zhou H, Liu Y, et al. Bootstrap latent representations for multi-modal recommendation[C]//Proceedings of the ACM Web Conference 2023. 2023: 845-854.（**ps:这个文章注意，他论文的效果复现不出来，但是确实很多文章会把他当做baseline**）
 
-6.Bai H, Wu L, Hou M, et al. Multimodality Invariant Learning for Multimedia-Based New Item Recommendation[C]//Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval. 2024: 677-686.
+6. Bai H, Wu L, Hou M, et al. Multimodality Invariant Learning for Multimedia-Based New Item Recommendation[C]//Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval. 2024: 677-686.
 
 7. Borg Bruun S, Balog K, Maistro M. Dataset and Models for Item Recommendation Using Multi-Modal User Interactions[C]//Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval. 2024: 709-718.
