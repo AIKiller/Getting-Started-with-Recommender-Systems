@@ -196,7 +196,7 @@ CCF计算领域高质量科技期刊分级目录：https://www.ccf.org.cn/ccftjg
 
 #### [**Multi-Modality Rec**](https://github.com/AIKiller/Getting-Started-with-Recommender-Systems/blob/main/paper/Multi-Modality%20Rec.md)
 
-#### [**LLM-based Rec**](https://github.com/AIKiller/Getting-Started-with-Recommender-Systems/blob/main/paper/LLM-based%20Rs)
+#### [**LLM-based Rec**](https://github.com/AIKiller/Getting-Started-with-Recommender-Systems/blob/main/paper/LLM-based%20Rs.md)
 
 #### [**News Rs**](https://github.com/AIKiller/Getting-Started-with-Recommender-Systems/blob/main/paper/News%20Rs.md)
 
