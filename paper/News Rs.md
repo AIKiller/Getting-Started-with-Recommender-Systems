@@ -10,7 +10,7 @@ News Rs
 
 5. Ge S, Wu C, Wu F, et al. Graph enhanced representation learning for news recommendation[C]//Proceedings of the web conference 2020. 2020: 2863-2869.
 
-6 .Qi T, Wu F, Wu C, et al. Privacy-preserving news recommendation model learning[J]. arXiv preprint arXiv:2003.09592, 2020.
+6. Qi T, Wu F, Wu C, et al. Privacy-preserving news recommendation model learning[J]. arXiv preprint arXiv:2003.09592, 2020.
 
 7. Hu L, Xu S, Li C, et al. Graph neural news recommendation with unsupervised preference disentanglement[C]//Proceedings of the 58th annual meeting of the association for computational linguistics. 2020: 4255-4264.
 
