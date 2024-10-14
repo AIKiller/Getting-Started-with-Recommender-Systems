@@ -49,6 +49,7 @@
 李沐动手学深度学习 PyTorch版：https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497  
 李宏毅机器学习：https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php  
 邱锡鹏神经网络与深度学习：https://space.bilibili.com/434832966/  
+100 Days of Machine Learning Coding: https://github.com/Avik-Jain/100-Days-Of-ML-Code?tab=readme-ov-file
 
 ## <span id="推荐系统入门">三、推荐系统入门
 [《Recommender System Handbook》](https://book.douban.com/subject/26806263/)/[《推荐系统：技术、评估及高效算法》](https://book.douban.com/subject/26437066/)  
